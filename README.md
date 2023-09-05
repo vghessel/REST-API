@@ -1,7 +1,10 @@
-API REST
+<h1>REST API - Node.js</h1>
 
-Tools used:
-* Node.js
-* Express
-* Postgres (Docker & Docker Compose)
-* Postman to test
+<h3>Tools used:</h3>
+- Node.js
+<br>
+- Express Web App Framework
+<br>
+- Postgres (Docker & Docker Compose)
+<br>
+- Postman to test
